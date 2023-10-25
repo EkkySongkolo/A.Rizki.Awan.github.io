@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#project {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+.social-icons ul {
+  padding: 3rem;
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+}
+
+.social-icons li {
+  display: inline;
+  margin: 10px;
+}
+
+.social-icons img {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+}
